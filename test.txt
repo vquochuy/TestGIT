@@ -1,3 +1,2 @@
-Xin chao moi nguoi!
-Day la line 123
-Day la line 14
+Xin chao moi nguoi 123!
+Day la line 124
